@@ -6,4 +6,4 @@ laterYears *= 4; // new value that multiply the laterYears variable.
 const myAgeInDogYears = myAge + laterYears; // sum of myAge value and laterYears value.
 let myName = "Lucia".toLowerCase(); //variable that is returned with lowercase letters.
 //myName = "Lucia".toUpperCase(); --- tested
-console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`); // string interpolation to display my name, years and the equivalent in dog years. am so old ;)
